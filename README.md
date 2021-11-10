@@ -1,7 +1,9 @@
 # Files making `utt2spk` & `wav.scp`
 
-## 1. 환경
-디렉토리 `sample` 안에 `train` 디렉토리와 `test` 디렉토리가 존재함.
+## 1. Requirements
+* 디렉토리 `sample` 안에 `train` 디렉토리와 `test` 디렉토리가 존재함.
+* python>=3.6
+* Ubuntu==18.04.6
 
 ---
 
