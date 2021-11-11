@@ -11,8 +11,7 @@
 > e.g. DATA_DIR = "/home/thispath/sample/
 
 ```Shell
-python make_utt2spk.py
-python make_wav.scp.py
+python make_utt2spk_and_wav.scp.py
 ```
 
 ---
