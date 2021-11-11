@@ -2,7 +2,6 @@
 
 ## 1. Requirements
 * 디렉토리 `sample` 안에 `train` 디렉토리와 `test` 디렉토리가 존재함.
-* python>=3.6
 * Ubuntu==18.04.6
 
 ---
@@ -12,8 +11,8 @@
 > e.g. DATA_DIR = "/home/thispath/sample/
 
 ```Shell
-python3 make_utt2spk.py
-python3 make_wav.scp.py
+python make_utt2spk.py
+python make_wav.scp.py
 ```
 
 ---
