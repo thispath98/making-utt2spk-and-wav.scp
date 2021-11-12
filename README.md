@@ -7,11 +7,18 @@
 ---
 
 ## 2. 실행 방법
-`DATA_DIR`에 샘플에 대한 경로를 적어줌.
-> e.g. DATA_DIR = "/home/thispath/sample/
 
 ```Shell
-python make_utt2spk_and_wav.scp.py
+$ python make_utt2spk_and_wav.scp.py --data_dir /home/user/sample
+
+Making wav.scp in train directory...
+done
+Making utt2spk in train directory...
+done
+Making wav.scp in test directory...
+done
+Making utt2spk in test directory...
+done
 ```
 
 ---
